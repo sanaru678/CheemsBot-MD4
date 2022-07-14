@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94770611075'] //ur owner number
-global.ownername = "🦄x_ᴇxᴘᴇʀᴛ_x" //ur owner name
+global.vcardowner = ['94764497078'] //ur owner number
+global.ownername = "🦄RXE" //ur owner name
 global.ytname = "WA: x_ᴇxᴘᴇʀᴛ_x" //ur yt chanel name
 global.socialm = "GitHub: x_ᴇxᴘᴇʀᴛ_x" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['94770611075']
-global.ownertag = '94770611075' //ur tag number
-global.botname = 'x_ᴇxᴘᴇʀᴛ_x' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E" //your theme url which will be displayed on whatsapp
+global.owner = ['94764497078']
+global.ownertag = '94764497078' //ur tag number
+global.botname = 'RXE' //ur bot name
+global.linkz = "https://chat.whatsapp.com/JF25DvEyMYT1pOmfCF0DYq" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E" //ur website to be displayed
 global.botscript = 'https://t.me/trxexpertt' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "RXE🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄x_ᴇxᴘᴇʀᴛ_x" //ur sticker watermark author
 
 //Bot theme media
